@@ -8,11 +8,12 @@
 /* Components */
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
+@import "components/screen-header.css";
 
 /* Screens */
 @import "screenshots/login.css";
+@import "screenshots/friends.css";
 
 body {
-    margin-bottom: 90px;
-    overflow-y: scroll;
+    color: #2e363e;
 }
