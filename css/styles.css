@@ -10,10 +10,12 @@
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
 @import "components/user-component.css";
+@import "components/badge.css";
 
 /* Screens */
 @import "screenshots/login.css";
 @import "screenshots/friends.css";
+@import "screenshots/find.css";
 
 body {
     color: #2e363e; 
